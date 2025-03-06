@@ -37,15 +37,14 @@ InsightStream: News is a responsive web application that aggregates news article
 ## 🛠 Installation Guide
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/[your-username]/g3sha-news.git
-   cd g3sha-news
+   git clone https://github.com/SanthoshRaj9114/InsightStream-Navigate-the-News-Landscape
 
 
 
 Here's the complete README.md code incorporating all your project details and academic information:
 
 ```markdown
-# G3sha News - News Aggregator Platform
+# InsightStream News - News Aggregator Platform
 
 ![InsightStream: News Banner](./images/logo.png)
 
@@ -63,7 +62,7 @@ A modern news aggregation website developed as part of academic curriculum at DR
 - [License](#-license)
 
 ## 🌐 Project Overview
-G3sha News is a responsive web application that aggregates news articles from various categories using the News API. Developed as an academic project, it demonstrates:
+InsightStream News is a responsive web application that aggregates news articles from various categories using the News API. Developed as an academic project, it demonstrates:
 
 - API integration
 - Responsive web design
@@ -84,8 +83,8 @@ G3sha News is a responsive web application that aggregates news articles from va
 ## 🛠 Installation Guide
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/[your-username]/g3sha-news.git
-   cd g3sha-news
+   git clone https://github.com/SanthoshRaj9114/InsightStream-Navigate-the-News-Landscape
+
    ```
 
 2. **API Key Setup**
