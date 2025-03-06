@@ -131,6 +131,7 @@ Asst. Prof. Jansi
 | Developer | Prashanth N  | UI Development, Responsive Design |
 | Developer | Magesh Kumar T | Error Handling, Performance Optimization |
 | Developer | Saran P | Content Management, Documentation |
+| Developer | kamalakannan MM  | Documentation support |
 
 ## 📚 API Reference
 - **News API Endpoint**: `everything`
