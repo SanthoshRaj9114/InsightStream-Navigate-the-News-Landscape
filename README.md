@@ -1,14 +1,35 @@
+# InsightStream: Navigate the News Landscape
+
+
  NM Documentation Link => https://drive.google.com/drive/folders/1qqg3oRoCeORhBbOd4cONC_if95Pek3br?usp=drive_link
  
 DEMO video => https://drive.google.com/file/d/1FWQQQfObyTEj_DzkSzghErzzyWGH-s6E/view?usp=sharing
 
  my own Documentation => https://drive.google.com/file/d/16j3yljnc-evhl3QPqctRf34iNk3ZLCJt/view?usp=sharing
 
+## 👥 Team Members   ( TEAM ID : 150673 )
+| Role | Name | Contribution | email ID |
+|------|------|--------------|--------------|
+| Project Lead | Santhosh Raj V | API Integration, Core Architecture | sksanthosh88409@gmail.com |
+| Developer | Prashanth N  | UI Development, Responsive Design | 	prashanthnp9894@gmail.com	|
+| Developer | Magesh Kumar T | Error Handling, Performance Optimization | 	bathamanapan@gmail.com	|
+| Developer | Saran P | Content Management, Documentation | 	maheshkumart542@gmail.com	|
+| Developer | kamalakannan MM  | Documentation support | 	kamalakannan22992@gmail.com	|
+
+## 🎓 Academic Information
+**Institution**  
+DRBCCC Hindu College  
+*Affiliated to University of Madras*
+
+**Project Guide**  
+Asst. Prof. Jansi  
+*Department of Computer Science*
+
+**Academic Year**  
+2023-2024
 
 
 # InsightStream: Navigate the News Landscape
-
-![ InsightStream: Banner](./images/logo.png)
 
 A modern news aggregation website developed as part of academic curriculum at DRBCCC Hindu College, showcasing real-time news integration and web development fundamentals.
 
